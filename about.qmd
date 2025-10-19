@@ -1,0 +1,17 @@
+---
+title: "About Me"
+---
+
+# Tentang Aku
+
+Aku seseorang yang percaya kalau setiap hal kecil bisa berarti besar kalau dikerjakan dengan hati.  
+Latar belakangku beragam — mulai dari mencoba desain, coding, sampai menulis.
+
+Website ini adalah ruang kecil buatku bereksperimen dan berbagi hal-hal yang aku pelajari.
+
+---
+
+## 📖 Fun Facts
+- Paling produktif tengah malam 🌙  
+- Suka warna ungu dan biru tua  
+- Kadang nulis puisi acak di catatan HP 😅
